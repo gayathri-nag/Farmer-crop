@@ -152,6 +152,3 @@ This helps farmers select suitable crops.
 
 ---
 
-## ▶️ How to Run the Project
-
-### Step 1: Clone Repository
