@@ -150,5 +150,4 @@ A recommendation system was implemented using the trained model.
 
 This helps farmers select suitable crops.
 
----
 
